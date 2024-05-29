@@ -1,0 +1,4 @@
+# Ignore build output
+jsh
+sh
+sh.1.out
